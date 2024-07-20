@@ -3,7 +3,7 @@ Hello world,this is my profile
 
 <h3 align="center">A passionate coder from India</h3>
 
--👀 I’m interested in learning computer science technologies
+- 👀 I’m interested in learning computer science technologies
 
 - 🌱 I’m currently learning **DSA**
 
