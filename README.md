@@ -1,9 +1,9 @@
 Hello world,this is my profile
 <h1 align="center">Hi 👋, I'm Dhruv popli</h1
-<h1> 👀 I’m interested in learning computer science technologies</h1>
 
 <h3 align="center">A passionate coder from India</h3>
 
+-👀 I’m interested in learning computer science technologies
 
 - 🌱 I’m currently learning **DSA**
 
