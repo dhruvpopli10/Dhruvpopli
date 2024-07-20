@@ -1,4 +1,3 @@
-# Dhruvpopli
 Hello world,this is my profile
 <h1 align="center">Hi 👋, I'm Dhruv popli</h1>
 <h3 align="center">A passionate coder from India</h3>
